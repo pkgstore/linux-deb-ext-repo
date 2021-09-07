@@ -1,0 +1,29 @@
+ext-repo (1.0.3-2) unstable; urgency=medium
+
+  * UPD: PostInst script.
+
+ -- Package Store <kitsune.solar@gmail.com>  Wed, 12 Feb 2020 12:00:00 +0300
+
+ext-repo (1.0.3-1) unstable; urgency=medium
+
+  * FIX: Elasticsearch repository URL.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 11 Feb 2020 16:00:00 +0300
+
+ext-repo (1.0.2-1) unstable; urgency=medium
+
+  * DEL: GPG keys.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 11 Feb 2020 16:00:00 +0300
+
+ext-repo (1.0.1-1) unstable; urgency=medium
+
+  * ADD: GPG keys.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 11 Feb 2020 14:00:00 +0300
+
+ext-repo (1.0.0-1) unstable; urgency=medium
+
+  * Initial Release
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 12 Nov 2019 14:00:00 +0300

@@ -1,0 +1,12 @@
+#!/bin/bash
+set -e
+
+url=(
+  'https://mariadb.org/mariadb_release_signing_key.asc'
+  'https://artifacts.elastic.co/GPG-KEY-elasticsearch'
+)
+
+for i in "${url[@]}"; do
+  echo "" && echo "--- APT KEY IMPORT: ${i}"
+  apt-key adv --fetch-keys "${i}"
+done

@@ -1,0 +1,19 @@
+Source: ext-repo
+Section: admin
+Priority: optional
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Uploaders: Package Store <kitsune.solar@gmail.com>
+Build-Depends: debhelper (>= 12)
+              ,debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: https://pkgstore.gitlab.io
+Vcs-Browser: https://github.com/pkgstore/linux-deb-ext-repo
+Vcs-Git: https://github.com/pkgstore/linux-deb-ext-repo.git
+Rules-Requires-Root: no
+
+Package: ext-repo
+Architecture: all
+Depends: ${shlibs:Depends}
+        ,${misc:Depends}
+Description: META-package for install and configure repositories
+ META-package for install and configure repositories.
