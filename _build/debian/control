@@ -13,7 +13,6 @@ Rules-Requires-Root: no
 
 Package: ext-repo
 Architecture: all
-Depends: ${shlibs:Depends}
-        ,${misc:Depends}
+Depends: ${misc:Depends}
 Description: META-package for install and configure repositories
  META-package for install and configure repositories.
