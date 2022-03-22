@@ -1,0 +1,3 @@
+# MariaDB
+# deb [arch=amd64] http://mirrors.coreix.net/mariadb/repo/10.7/debian bullseye main
+# deb-src http://mirrors.coreix.net/mariadb/repo/10.7/debian bullseye main

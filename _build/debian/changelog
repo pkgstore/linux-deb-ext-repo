@@ -1,3 +1,9 @@
+ext-repo (1.0.4-1) unstable; urgency=medium
+
+  * UPD: All GPG keys & all repos.
+
+ -- Package Store <mail@z17.dev>  Tue, 22 Mar 2022 14:55:00 +0300
+
 ext-repo (1.0.3-2) unstable; urgency=medium
 
   * UPD: PostInst script.

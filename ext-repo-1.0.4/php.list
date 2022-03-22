@@ -1,0 +1,2 @@
+# PHP
+deb [signed-by=/etc/apt/trusted.gpg.d/php.gpg] https://packages.sury.org/php bullseye main
